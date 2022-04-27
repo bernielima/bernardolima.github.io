@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bernardo Lima"
-  avatar           : "bio-photo.jpg"
+  avatar           : "/assets/perfil2.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
